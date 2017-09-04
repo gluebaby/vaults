@@ -1,0 +1,9 @@
+#World for the vaults
+vault-world: "vaultworld"
+#File for schematic
+schematic-file: "vault.schematic"
+#Messages
+no-permission: "&cYou do not have access to this command!"
+vault-created: "&aYou have created a vault! Use /vault to access it!"
+no-vault: "&cYou do not have a vault!"
+entered-vault: "&aYou have teleported to your vault! Use /spawn to return to spawn!"

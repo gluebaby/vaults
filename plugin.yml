@@ -1,0 +1,7 @@
+name: DeoxylumVaults
+author: Undead_Guppy
+version: 1.0
+commands: 
+  vault:
+  createvault:
+main: me.undeadguppy.vaults.DeoxylumVaults
